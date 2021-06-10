@@ -6,7 +6,5 @@ This project aims at developing a system that can use dimensional models and hum
  
  @ With our studies focusing on the detection of mental health issues with core help of Machine Learning, the challenges have been accepted to contribute to the main-field research from our end.[Capstone Project PPT.pdf]
  
-(https://github.com/itisdb/Capstone/files/6632064/Capstone.Project.PPT.pdf)
-
-
-Latest Release: https://github.com/itisdb/Capstone/releases/tag/1.0.0
+[Detailed Presentation](https://github.com/itisdb/Capstone/files/6632064/Capstone.Project.PPT.pdf)
+Latest Release: [here](https://github.com/itisdb/Capstone/releases/)
