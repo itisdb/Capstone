@@ -1,5 +1,5 @@
 # Capstone
-This project aims at developing a system that can use dimensional models and human interaction to get info about the persons Mental Health.
+This project aims at developing a system that can use dimensional models and human interaction to get information regarding ocncerned individual's mental health condition.
 
 # Outline:
  @ Asserting the most ignorant and stigmatic issue of today's generation, especially in low-income countries, mental health statistics has shown about 14% of the global burden of disease that has been attributed to neuropsychiatric disorder as the level of psychological well-being or an absence of mental illness.
